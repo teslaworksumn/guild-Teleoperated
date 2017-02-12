@@ -3,8 +3,8 @@
 **Purpose**: Make Joy Stick Controller talk to our Computer.
 The computer then uses [serial communcations](insert link) to talk to the robotic arm.
 
-
-TODO
+=============
+#### TODO
 * Add serial communications code
 
 
